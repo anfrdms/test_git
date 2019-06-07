@@ -10,6 +10,8 @@ public class Main {
 		Game game = new Roulette();
 
 		game.play();
+		
+		System.out.println("hello");
 
 	}
 }
